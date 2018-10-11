@@ -1,10 +1,10 @@
 # OPass App Issues
 
-OPass App aka. CCIP App, This repo is only accept report issues, DO NOT PR or PUSH any code to this repo.
+Tracks the issues of OPass (a.k.a. CCIP App.) This repo accepts issue reports only, DO NOT PR or PUSH any code to this repo.
 
-## Current Activity Projects
+## Currently Active Projects
 
-* [Admin](https://github.com/CCIP-App/CCIP-Admin-Bueno)
-* [Android](https://github.com/CCIP-App/CCIP-Android)
-* [iOS](https://github.com/CCIP-App/CCIP-iOS)
-* [Server](https://github.com/CCIP-App/CCIP-Server)
+* (Admin)[https://github.com/CCIP-App/CCIP-Admin-Bueno]
+* (Android)[https://github.com/CCIP-App/CCIP-Android]
+* (iOS)[https://github.com/CCIP-App/CCIP-iOS]
+* (Server)[https://github.com/CCIP-App/CCIP-Server]
